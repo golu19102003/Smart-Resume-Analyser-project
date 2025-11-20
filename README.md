@@ -137,7 +137,7 @@ Renders AI feedback in categorized sections:
 
 -Grammar Corrections
 
-Job Match Percentage
+-Job Match Percentage
 
 Displays improvement suggestions with visual indicators.
 
@@ -294,7 +294,7 @@ npm start
 
 Runs at: http://localhost:3000
 
-Cloud Deployment (Render/Heroku/Vercel)
+**Cloud Deployment (Render/Heroku/Vercel)**
 
 Push project to GitHub.
 
@@ -306,13 +306,13 @@ OPENAI_API_KEY
 
 Deploy.
 
-Firebase Setup
+**Firebase Setup**
 
 Enable Email/Password + Google Auth.
 
 Add Firebase config to auth.js.
 
-Optional
+**Optional**
 
 Custom Domain
 
