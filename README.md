@@ -1,6 +1,7 @@
+<img width="1879" height="905" alt="image" src="https://github.com/user-attachments/assets/964ab0f6-0d9d-49a6-8f0a-65ca28cb60fa" />
 ## Project info
 
-**URL**: https://lovable.dev/projects/e6ac75d4-17d0-4ddd-af4a-fc862d17162e
+**URL**: https://smartresumeanalyser-project.vercel.app/
 
 ## How can I edit this code?
 
